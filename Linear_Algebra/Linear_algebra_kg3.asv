@@ -1,7 +1,0 @@
-"Opgave 5.1"
-FemA=[0 0 1
-      0 1 0
-     -1 0 0];
-Ortogonal=inv(FemA)-FemA'
-Sym=FemA-FemA'
-SkSym=FemA+FemA'
