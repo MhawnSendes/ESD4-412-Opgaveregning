@@ -1,0 +1,5 @@
+%Calculation of eigenvalues and eigenvectors
+a=[j*0.8 j*0.6
+   j*0.6 -j*0.8];%matrix
+eig(a)%eigenvalues
+[V,D]=eig(a)%
