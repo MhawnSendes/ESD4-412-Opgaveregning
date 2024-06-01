@@ -68,9 +68,19 @@ SyvB=[2 8 0 0
       9 -4 0 0
       0 0 7 1
       0 0 6 -2];
-GJSyvA=[SyvA eye(3)];
+GJSyvA=[SyvA eye(3)]
 rref(GJSyvA)
 inv(SyvA)
-GJSyvB=[SyvB eye(4)];
+GJSyvB=[SyvB eye(4)]
 rref(GJSyvB)
 inv(SyvB)
+%Find eigen værdi af matrice
+eig(SyvA)
+AI = [I*0.8 I*0.6
+      I*0.6 -I*0.8];
+AI = [i*0.8 i*0.6
+      I*0.6 -I*0.8];
+A9 = [2 5 3 1 
+     -1 2 1 2 
+      1 1 1 0];
+
