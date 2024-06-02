@@ -1,5 +1,5 @@
 %Sådan bruger du MatLab
-%Dette er sådan du skriver din matrice op. ";" betyder at man ikek vil se
+%Dette er sådan du skriver din matrice op. ";" betyder at man ikke vil se
 %svaret, men kinda bare gemme det, som i Maple
 A = [1 1 3 2
      5 7 2 -19
