@@ -31,3 +31,10 @@ a= [-4^(-1) +2];
 
 % HUSK AT STEM kan bruges til step vise LTI
 
+%yVals=[-1  0 1 2 3 4 7 3 5]
+%xVals=[-2 -1 0 1 2 3 4 5 6]
+%stem(xVals,yVals,"filled")
+
+%out = conv(yVals,xVals)
+%stem(out,"filled")
+
