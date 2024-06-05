@@ -53,3 +53,5 @@ svartjek=V*radius*inv(V);%Omdanner diagonal matrixen tilbage til den originale m
 % spekral radius. Den spektrale radius er bare den største absolutte
 % eigenværdi, eller den største absolutte værdi en matrix der hedder
 % 'radius'
+
+C1:= []
