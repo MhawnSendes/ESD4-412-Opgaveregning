@@ -1,6 +1,6 @@
 LTspice 24.0.9 for Windows
 Circuit: * C:\Users\Ditte\aauRepo\esd4\opg\Analog elektronik\examPrep\BJT\classicBJTDesign.asc
-Start Time: Wed Jun  5 12:00:19 2024
+Start Time: Sun May 26 13:52:29 2024
 Warning: Multiple definitions of model "2scr375p" Type: BJT
 Warning: Multiple definitions of model "bc857b" Type: BJT
 Warning: Multiple definitions of model "bc847c" Type: BJT
@@ -10,10 +10,25 @@ Maximum thread count: 16
 tnom = 27
 temp = 27
 method = modified trap
-v2: Missing value, assumed 0V @ DC
 Direct Newton iteration for .op point succeeded.
-Note: .fourier statements are only valid with a .tran command.
-      No Fourier analysis performed.
+N-Period=1
+Fourier components of V(output2)
+DC component:8.10202e-06
 
-Total elapsed time: 0.119 seconds.
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	 1.000e+3	 4.747e-1	 1.000e+0	  -93.66°	    0.00°
+    2   	 2.000e+3	 1.547e-3	 3.259e-3	   -7.70°	   85.96°
+    3   	 3.000e+3	 4.801e-5	 1.011e-4	  -96.69°	   -3.03°
+    4   	 4.000e+3	 9.667e-6	 2.036e-5	  -40.60°	   53.06°
+    5   	 5.000e+3	 1.980e-5	 4.171e-5	 -109.77°	  -16.12°
+    6   	 6.000e+3	 2.922e-6	 6.155e-6	 -123.68°	  -30.02°
+    7   	 7.000e+3	 1.894e-5	 3.989e-5	 -126.10°	  -32.45°
+    8   	 8.000e+3	 8.785e-6	 1.851e-5	  148.15°	  241.81°
+    9   	 9.000e+3	 1.352e-5	 2.848e-5	 -141.05°	  -47.39°
+Partial Harmonic Distortion: 0.326088%
+Total Harmonic Distortion:   0.331266%
+
+
+Total elapsed time: 0.169 seconds.
 
