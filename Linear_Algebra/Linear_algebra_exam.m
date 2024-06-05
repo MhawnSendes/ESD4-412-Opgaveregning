@@ -25,8 +25,8 @@ rB=rank(B);%finder rangen af matrixen
 %forskellig fra nul hvis matrixen er på NxN form og matlab vil kun regne
 %det når matrixen er på NxN form
 
-EchB=rref(B);% retunere reduced row echelon form
-[L,U,P]=lu(B);%retunere lower (L) og upper (U) form af matrixen. 
+EchB=rref(B)% retunere reduced row echelon form
+[L,U,P]=lu(B)%retunere lower (L) og upper (U) form af matrixen. 
 % Jeg ved ikke hvad fuck 'P' er men det skal man alligevel ikke bruge
 
 %inv(B)% retunere den inverse matrix. HUSK! at man kun kan finde den
@@ -38,17 +38,17 @@ EchB=rref(B);% retunere reduced row echelon form
 "Opgave eksempel 4:"
 A=[0 2+j*2 0
    2-j*2 0 2+j*2
-   0 2-j*2 0]
-eig(A)
-[V,D]=eig(A)
-diagonalMatrix=V*D*inv(V)%i command outputtet kan man se at det her giver 
+   0 2-j*2 0];
+eig(A);
+[V,D]=eig(A);
+diagonalMatrix=V*D*inv(V);%i command outputtet kan man se at det her giver 
 % det samme som vores originale matrix og derfor kan den originale matrix diagonaliseres
 
-radius=(j*D)^5%Beregner for diagonal matrixen
+radius=(j*D)^5;%Beregner for diagonal matrixen
 
-svartjek=V*radius*inv(V)%Omdanner diagonal matrixen tilbage til den originale matrix
+svartjek=V*radius*inv(V);%Omdanner diagonal matrixen tilbage til den originale matrix
 
-(A*j)^5%kigger man i command outputtet er den her linje og svartjek ens, 
+(A*j)^5;%kigger man i command outputtet er den her linje og svartjek ens, 
 % hvilket viser det smarte i at diagonalisere. Derudover skal man finde
 % spekral radius. Den spektrale radius er bare den største absolutte
 % eigenværdi, eller den største absolutte værdi en matrix der hedder
