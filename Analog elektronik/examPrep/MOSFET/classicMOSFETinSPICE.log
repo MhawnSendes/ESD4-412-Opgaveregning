@@ -1,0 +1,14 @@
+LTspice 24.0.9 for Windows
+Circuit: * C:\Users\Ditte\aauRepo\esd4\opg\Analog elektronik\examPrep\MOSFET\classicMOSFETinSPICE.asc
+Start Time: Wed Jun  5 14:48:42 2024
+re1: both pins shorted together -- ignoring.
+r_sig1: both pins shorted together -- ignoring.
+c_e1: both pins shorted together -- ignoring.
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.173 seconds.
+
