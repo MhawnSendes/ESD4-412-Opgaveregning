@@ -1,9 +1,87 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.8">
   <diagram name="Page-1" id="Iw_NqWhfIXygTIU-c5Fy">
-    <mxGraphModel>
+    <mxGraphModel dx="1895" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zWevRfMtlLX27VXIXBvd-13" value="" style="group;flipH=1;rotation=90;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="239" y="830" width="690" height="740" as="geometry" />
+        </mxCell>
+        <mxCell id="zWevRfMtlLX27VXIXBvd-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=90;" vertex="1" parent="zWevRfMtlLX27VXIXBvd-13">
+          <mxGeometry x="485.81632653061223" y="510.59999999999997" width="211.22448979591837" height="211.22448979591837" as="geometry" />
+        </mxCell>
+        <mxCell id="zWevRfMtlLX27VXIXBvd-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=90;fontStyle=1" vertex="1" parent="zWevRfMtlLX27VXIXBvd-13">
+          <mxGeometry x="246.42857142857142" y="510.59999999999997" width="211.22448979591837" height="211.22448979591837" as="geometry" />
+        </mxCell>
+        <mxCell id="zWevRfMtlLX27VXIXBvd-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=90;" vertex="1" parent="zWevRfMtlLX27VXIXBvd-13">
+          <mxGeometry x="-7.040816326530612" y="510.59999999999997" width="211.22448979591837" height="211.22448979591837" as="geometry" />
+        </mxCell>
+        <mxCell id="zWevRfMtlLX27VXIXBvd-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=90;" vertex="1" parent="zWevRfMtlLX27VXIXBvd-13">
+          <mxGeometry x="119.6938775510204" y="273.8" width="211.22448979591837" height="211.22448979591837" as="geometry" />
+        </mxCell>
+        <mxCell id="zWevRfMtlLX27VXIXBvd-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=90;" vertex="1" parent="zWevRfMtlLX27VXIXBvd-13">
+          <mxGeometry x="359.0816326530612" y="259" width="211.22448979591837" height="211.22448979591837" as="geometry" />
+        </mxCell>
+        <mxCell id="zWevRfMtlLX27VXIXBvd-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=90;" vertex="1" parent="zWevRfMtlLX27VXIXBvd-13">
+          <mxGeometry x="232.3469387755102" y="7.4" width="211.22448979591837" height="211.22448979591837" as="geometry" />
+        </mxCell>
+        <mxCell id="zWevRfMtlLX27VXIXBvd-21" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Gammel Dansk&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="zWevRfMtlLX27VXIXBvd-13">
+          <mxGeometry x="282.90999999999997" y="66.75" width="110.1" height="92.53" as="geometry" />
+        </mxCell>
+        <mxCell id="zWevRfMtlLX27VXIXBvd-22" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Fra hvilket land er den nuværende mandlige vm i bordtennis&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="zWevRfMtlLX27VXIXBvd-13">
+          <mxGeometry x="155.44" y="315.98999999999995" width="139.74" height="126.85" as="geometry" />
+        </mxCell>
+        <mxCell id="zWevRfMtlLX27VXIXBvd-23" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Mim johnny depp på 30 sek&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="zWevRfMtlLX27VXIXBvd-13">
+          <mxGeometry x="409.64" y="318.3499999999999" width="110.1" height="92.53" as="geometry" />
+        </mxCell>
+        <mxCell id="zWevRfMtlLX27VXIXBvd-24" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;10 gæt til at gætte 62&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="zWevRfMtlLX27VXIXBvd-13">
+          <mxGeometry x="43.51999999999998" y="569.95" width="110.1" height="92.53" as="geometry" />
+        </mxCell>
+        <mxCell id="zWevRfMtlLX27VXIXBvd-25" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;1 min tal sinful&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="zWevRfMtlLX27VXIXBvd-13">
+          <mxGeometry x="299.53999999999996" y="569.95" width="110.1" height="92.53" as="geometry" />
+        </mxCell>
+        <mxCell id="zWevRfMtlLX27VXIXBvd-26" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Hvis øre er det?&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="zWevRfMtlLX27VXIXBvd-13">
+          <mxGeometry x="536.38" y="569.95" width="110.1" height="92.53" as="geometry" />
+        </mxCell>
+        <mxCell id="zWevRfMtlLX27VXIXBvd-14" value="" style="group;rotation=90;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="220" y="20" width="710" height="860" as="geometry" />
+        </mxCell>
+        <mxCell id="zWevRfMtlLX27VXIXBvd-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=90;" vertex="1" parent="zWevRfMtlLX27VXIXBvd-14">
+          <mxGeometry x="499.8979591836735" y="8.6" width="217.3469387755102" height="217.3469387755102" as="geometry" />
+        </mxCell>
+        <mxCell id="zWevRfMtlLX27VXIXBvd-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=90;" vertex="1" parent="zWevRfMtlLX27VXIXBvd-14">
+          <mxGeometry x="253.57142857142858" y="8.6" width="217.3469387755102" height="217.3469387755102" as="geometry" />
+        </mxCell>
+        <mxCell id="zWevRfMtlLX27VXIXBvd-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=90;" vertex="1" parent="zWevRfMtlLX27VXIXBvd-14">
+          <mxGeometry x="-7.244897959183674" y="8.6" width="217.3469387755102" height="217.3469387755102" as="geometry" />
+        </mxCell>
+        <mxCell id="zWevRfMtlLX27VXIXBvd-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=90;" vertex="1" parent="zWevRfMtlLX27VXIXBvd-14">
+          <mxGeometry x="123.16326530612245" y="283.8" width="217.3469387755102" height="217.3469387755102" as="geometry" />
+        </mxCell>
+        <mxCell id="zWevRfMtlLX27VXIXBvd-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=90;" vertex="1" parent="zWevRfMtlLX27VXIXBvd-14">
+          <mxGeometry x="369.48979591836735" y="301" width="217.3469387755102" height="217.3469387755102" as="geometry" />
+        </mxCell>
+        <mxCell id="zWevRfMtlLX27VXIXBvd-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=90;" vertex="1" parent="zWevRfMtlLX27VXIXBvd-14">
+          <mxGeometry x="239.08163265306123" y="593.4" width="217.3469387755102" height="217.3469387755102" as="geometry" />
+        </mxCell>
+        <mxCell id="zWevRfMtlLX27VXIXBvd-15" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Mim folkeskolefag&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="zWevRfMtlLX27VXIXBvd-14">
+          <mxGeometry x="423.10999999999996" y="363.41" width="110.1" height="92.53" as="geometry" />
+        </mxCell>
+        <mxCell id="zWevRfMtlLX27VXIXBvd-16" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Rød Aalborg&lt;/font&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2020px%3B%26quot%3B%26gt%3BMim%20folkeskolefag%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3BwhiteSpace%3Dwrap%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22643.1099999999999%22%20y%3D%22383.41%22%20width%3D%22110.1%22%20height%3D%2292.53%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="zWevRfMtlLX27VXIXBvd-14">
+          <mxGeometry x="299.95000000000005" y="655.81" width="110.1" height="92.53" as="geometry" />
+        </mxCell>
+        <mxCell id="zWevRfMtlLX27VXIXBvd-17" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;30 sek mim en medspiller&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="zWevRfMtlLX27VXIXBvd-14">
+          <mxGeometry x="176.79000000000002" y="346.21" width="110.1" height="92.53" as="geometry" />
+        </mxCell>
+        <mxCell id="zWevRfMtlLX27VXIXBvd-18" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Kys Johan og Mads på Kinden&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="zWevRfMtlLX27VXIXBvd-14">
+          <mxGeometry x="307.19000000000005" y="80" width="110.1" height="92.53" as="geometry" />
+        </mxCell>
+        <mxCell id="zWevRfMtlLX27VXIXBvd-19" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;30 sek tal dine forældres navne&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="zWevRfMtlLX27VXIXBvd-14">
+          <mxGeometry x="40" y="80" width="110.1" height="92.53" as="geometry" />
+        </mxCell>
+        <mxCell id="zWevRfMtlLX27VXIXBvd-20" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Sten saks papir med modspiller&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="zWevRfMtlLX27VXIXBvd-14">
+          <mxGeometry x="553.52" y="80" width="110.1" height="92.53" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
